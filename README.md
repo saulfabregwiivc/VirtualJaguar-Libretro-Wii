@@ -1,6 +1,6 @@
-# virtualjaguar-libretro
+# VirtualJaguar-Libretro-Wii
 
-## _Port of Virtual Jaguar to Libretro_
+## _Port of Virtual Jaguar to Libretro, modified by saulfabreg for support the Nintendo Wii_
 
 ---
 
@@ -20,6 +20,7 @@
                                                                                                              
 Upstream: `git clone http://shamusworld.gotdns.org/git/virtualjaguar`
 
+Libretro GitHub: https://github.com/libretro/virtualjaguar-libretro
 Unofficial GitHub mirror: https://github.com/mirror/virtualjaguar
 
 ## Notices
